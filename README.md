@@ -1,4 +1,4 @@
-# Sales-Customer-Insights---Power-BI-Dashboard
+# Blinkit Sales-Customer-Insights-Power-BI-Dashboard
 
 # Business Objective
 
